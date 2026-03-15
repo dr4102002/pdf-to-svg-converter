@@ -1,5 +1,4 @@
 python-multipart
 uvicorn
 fastapi
-fitz
-PyMuPDF
+PyMuPDF~=1.23.0
